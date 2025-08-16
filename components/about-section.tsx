@@ -11,7 +11,7 @@ export default function AboutSection() {
             <div className="space-y-4">
               <h2 className="text-3xl lg:text-5xl font-bold text-foreground">About Eezdra</h2>
               <p className="text-xl text-muted-foreground">
-                We're pioneering the future of media technology, empowering creators and businesses with innovative
+                We&pos;re pioneering the future of media technology, empowering creators and businesses with innovative
                 AI-driven solutions that transform how content is created, managed, and distributed.
               </p>
             </div>
